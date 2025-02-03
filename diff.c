@@ -4,4 +4,5 @@ int main(){
     print("Enter a and b :");
     scanf("%d %d",&a,&b);
     print("The difference of a and b is %d",a-b);
+    return 0;
 }
