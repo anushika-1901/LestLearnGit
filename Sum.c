@@ -5,6 +5,6 @@ int main(){
     print("Enter the value of a and b :");
     scanf("%d",&a);
     scanf("%d",&b);
-    print("The sum of a and b is %d\n",a+b);
+    print("The sum of a and b is %d\n",a+b); //this is the sum of a and b 
     return 0;
 }
