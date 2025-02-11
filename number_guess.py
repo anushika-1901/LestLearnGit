@@ -4,7 +4,6 @@ print("""Please select level of game :
       1.Level One
       2.Level Two
       3.Level Three
-
 """)
 game_level=int(input("Enter the level :"))
 if game_level==1:
